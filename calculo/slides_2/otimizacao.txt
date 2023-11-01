@@ -1,0 +1,21 @@
+1)Entender o problema
+	o que foi dado?
+		cercado tem que ter perimetro igual a 4000 metros
+	o que queremos otimizar?
+		a area desse terreno
+	qual a restrição?
+		a quantidade de cerca disponivel
+2)esboço
+3)atribuir variaveis às quantidades que foram dadas
+4)equacionar a restrição e o que queremos maximizar ou minimizar
+5) escrever a função a ser otimizada em termos de somente uma variavel
+6) calcular os pontos criticos da função a ser otimizada
+	derivar a função
+	pra achar o ponto critico, iguala a derivada a zero
+7) conferir se conseguimos mesmo achar o maximo/minimo local
+	teste da primeira derivada, ou teste da segunda derivada
+	varal de sinais da derivada da função
+		calcular o A'(x) para valores maiores e menores que a derivada
+		só substituir os x dentro da função derivada mesmo
+		ver se é positivo ou negativo
+https://www.youtube.com/watch?v=OhVL4S6BXU8&list=PLGi-E5bTV-DTHMANsOXbJucmn-8a5kKeh&index=2&ab_channel=CursodeC%C3%A1lculo
